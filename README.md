@@ -1,7 +1,4 @@
 # complete-logger
-<<<<<<< HEAD
-Complete logger for your nodejs application
-=======
 Complete logger for your nodejs application with HTML logs generated.
 
 [![NPM version](https://img.shields.io/npm/v/complete-logger.svg)](https://www.npmjs.com/package/complete-logger)
@@ -57,4 +54,3 @@ To specify the level of the log, we have 7 possibilities :
 
 
 Enjoy it !
->>>>>>> initial commit
